@@ -22,7 +22,7 @@ public class Main{
 //        task13(scan);
 //        task14(scan);
 //        task15(scan);
-        task16(scan);
+//        task16(scan);
 //        task17(scan);
 //        task18(scan);
 //        task19(scan);
@@ -32,6 +32,22 @@ public class Main{
 //        task23(scan);
 //        task24(scan);
 //        task25(scan);
+//        task26(scan);
+//        task27(scan);
+//        task28(scan);
+//        task29(scan);
+//        task30(scan);
+//        task31(scan);
+//        task32(scan);
+//        task33(scan);
+//        task34(scan);
+//        task35(scan);
+//        task36(scan);
+//        task37(scan);
+//        task38(scan);
+//        task39(scan);
+//        task40(scan);
+
 
 
 
